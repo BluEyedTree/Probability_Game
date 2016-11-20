@@ -4,3 +4,8 @@ The goal of the game is to predict the chance of winning from any location n tur
 
 
 The bar on the right represents your chance of winning if you start from that given location and have n turns (seen as the iteration number on top) to run the game. 
+
+
+Below is an example of the game at the 13th iteration:
+
+![](https://github.com/BluEyedTree/Probability_Game/blob/master/Dynamic.jpg)
